@@ -1,0 +1,19 @@
+# Vivado generated projects
+vivado_catmull/
+vivado_lagrange/
+
+# Vivado / XSIM temporary & log files
+.Xil/
+xsim.dir/
+*.log
+*.jou
+*.pb
+*.wdb
+*.backup.*
+clockInfo.txt
+*.str
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
